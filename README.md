@@ -1,3 +1,5 @@
+[![CI/CD GitHub Actions](https://github.com/MurDmitry/Laba1_test/actions/workflows/test-action.yml/badge.svg)](https://github.com/MurDmitry/Laba1_test/actions/workflows/test-action.yml)
+
 Лабораторная работа номер 1 (предмет тестирование):
 
 Тест 1:
